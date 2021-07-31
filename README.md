@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anthonygomescal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonygomescal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/raptorx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raptorx" height="30" width="40" /></a>
+<a href="http://stackoverflow.com/u/5723163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raptorx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raptorx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raptorx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raptorx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raptorx" height="30" width="40" /></a>
 </p>
